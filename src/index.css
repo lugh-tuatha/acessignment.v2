@@ -4,6 +4,10 @@
 
 :root {
   --bg-dark: #101414;
+  --text-color-gray: #979ba4;
+
+  --bg-light: #fffefe;
+  --text-color-dark: #0e162a;
 }
 
 a {
