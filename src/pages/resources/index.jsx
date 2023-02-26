@@ -4,7 +4,7 @@ import Header from '../../components/header'
 
 function Resources() {
   return (
-    <div>
+    <div className="container mx-auto">
       <Header />
       Resources
     </div>

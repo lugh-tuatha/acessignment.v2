@@ -6,12 +6,8 @@ import Button from './components/button'
 
 function App() {
   return (
-    <div className="App">
+    <div className="container mx-auto">
       <Header />
-      <h1 className="text-3xl font-bold underline">
-        Hello world!
-      </h1>
-
       <Button>Learn more</Button>
     </div>
   )

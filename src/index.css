@@ -10,11 +10,6 @@
   --text-color-dark: #0e162a;
 }
 
-#root{
-  max-width: 1420px;
-  margin: 0 auto;
-}
-
 body {
   margin: 0;
   padding: 0;
